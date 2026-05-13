@@ -1,0 +1,28 @@
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+### Java ###
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+### VS Code ###
+.vscode/
+*.code-workspace
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### OS Files ###
+.DS_Store
+Thumbs.db
